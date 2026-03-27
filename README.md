@@ -90,6 +90,7 @@ python "Task 2.py"
 ## 👩‍💻 Author
 
 **Sushmita Suryakant Sangle**
+
 📌 Prodigy InfoTech Internship – Task 2 Completed
 
 ---
